@@ -1,0 +1,10 @@
+.app{
+  width: 200px;
+  height: 100px;
+  background: url('./../images/timg.jpeg') no-repeat;
+  background-size: contain;
+  color: #fff;
+}
+.title{
+  color: green;
+}
